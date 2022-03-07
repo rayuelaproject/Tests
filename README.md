@@ -20,11 +20,11 @@ In each of them, the following are presented:
     <li>The results obtained.</li>
 </ul>
     
-<p align="left"><a href="https://soniasoleracotanilla.github.io/SPA-Tests/">How to test your SPA »</a></p>
-<p align="left"><a href="https://soniasoleracotanilla.github.io/Wearable-Tests/">How to test your Wearable »</a></p>
-<p align="left"><a href="https://soniasoleracotanilla.github.io/Smart_Home_IoT_Devices-Tests/">How to test your Smart Home IoT Device »</a></p>
+<p align="left"><a href="https://rayuelaproject.github.io/SPA-Tests/">How to test your SPA »</a></p>
+<p align="left"><a href="https://rayuelaproject.github.io/Wearable-Tests/">How to test your Wearable »</a></p>
+<p align="left"><a href="https://rayuelaproject.github.io/Smart_Home_IoT_Devices-Tests/">How to test your Smart Home IoT Device »</a></p>
     
-<p align="right">(<a href="https://soniasoleracotanilla.github.io/RAYUELA/">Back Home</a>)</p>
+<p align="right">(<a href="https://rayuelaproject.github.io/RAYUELA/">Back Home</a>)</p>
 
 </div>
 
@@ -58,12 +58,12 @@ For ease of understanding, the techniques marked in red are frequently used tech
 As tens of techniques are described in the “MITRE ATT&CK” framework”, only a few of them related to the tests performed have been selected. The results show whether a technique is often used by a cyber group or not, as well as the visibility and detection coverage of it.
 <br />
 <br />
-<p align="left"><a href="https://soniasoleracotanilla.github.io/MITRE_SPA/">Contrasting these results with your SPA »</a></p>
-<p align="left"><a href="https://soniasoleracotanilla.github.io/MITRE_Wearables/">Contrasting these results with your Wearable »</a></p>
-<p align="left"><a href="https://soniasoleracotanilla.github.io/MITRE_Smart_Home/">Contrasting these results with your Smart Home IoT Device »</a></p>
+<p align="left"><a href="https://rayuelaproject.github.io/MITRE_SPA/">Contrasting these results with your SPA »</a></p>
+<p align="left"><a href="https://rayuelaproject.github.io/MITRE_Wearables/">Contrasting these results with your Wearable »</a></p>
+<p align="left"><a href="https://rayuelaproject.github.io/MITRE_Smart_Home/">Contrasting these results with your Smart Home IoT Device »</a></p>
 
   
-<p align="right">(<a href="https://soniasoleracotanilla.github.io/RAYUELA/">Back Home</a>)</p>
+<p align="right">(<a href="https://rayuelaproject.github.io/RAYUELA/">Back Home</a>)</p>
 
 </div>
 
@@ -85,7 +85,7 @@ From the point of view of configuring the devices, it is important to give them 
 Finally, it is essential to ensure that devices that use voice as a method of interaction can recognise the user. In general, this type of device has the necessary tools to perform this recognition. This operation, together with the possibility of establishing different or non-default activation words, allows for reducing the likelihood that agents, external to the user's environment, can carry out action orders for this type of device.
 <br />
 <br />
-<p align="right">(<a href="https://soniasoleracotanilla.github.io/RAYUELA/">Back Home</a>)</p>
+<p align="right">(<a href="https://rayuelaproject.github.io/RAYUELA/">Back Home</a>)</p>
 </div>
    
 
